@@ -1,0 +1,62 @@
+Artist	Album	Track	Segmentation
+Norah Jones	Come Away With Me	Lonestar	Norah_Jones_##_Lonestar.lab
+Beastie Boys	Hello Nasty		Intergalactic	Beastie_Boys_##_Intergalactic.lab
+Black Eyed Peas	Bridging The Gap	Cali To New York	Black_Eyed_Peas_##_Cali.lab
+The Monkees	The Definitive Monkees	Words	The_Monkees_##_Words.lab
+R.E.M.	Automatic For The People	Drive	R.E.M._##_Drive.lab
+Portishead	Dummy	Wandering Star	Portishead_##_Wandering_Star.lab
+Prince	Parade	Kiss	Prince_##_Kiss.lab
+Gloria Gaynor	I Will Survive	Essential 70's Collection	Gloria_Gaynor_##_I_Will_Survive.lab
+Michael Jackson	Bad	Bad	Michael_Jackson_##_Bad.lab
+Michael Jackson	Dangerous	Black Or White	Michael_Jackson_##_Black_Or_White.lab
+Eminem	The Marshall Mathers LP	Stan	Eminem_##_Stan.lab
+Sinead O'Connor	I Do Not Want What I Haven't Got	Nothing Compares 2 U	Sinead_O'Connor_##_Nothing_Compares_To_You.lab
+Simply Red	Stars	Stars	Simply_Red_##_Stars.lab
+Nick Drake	Bryter Later	Northern Sky	Nick_Drake_##_Northern_Sky.lab
+Chicago	The Chicago Story	Old Days	Chicago_##_Old_Days.lab
+Madonna	Like A Virgin	Like A Virgin	Madonna_##_Like_A_Virgin.lab
+a-ha	Hunting High and Low	Take On Me	A_Ha_##_Take_On_Me.lab
+Alanis Morissette	Jagged Little Pill	Head Over Feet	Alanis_Morissette_##_Head_Over_Feet.lab
+Alanis Morissette	Supposed Former Infatuation Junkie	Thank U	Alanis_Morissette_##_Thank_U.lab
+Bj�rk	Post	It's Oh So Quiet	Bjork_##_Its_Oh_So_Quiet.lab
+Britney Spears	...Baby One More Time	...Baby One More Time	Britney_Spear_##_Baby_Hit_Me_One_More_Time.lab
+Chumbawamba	Tubthumper	Tubthumping	Chumbawamba_##_Tubthumping.lab
+The Cranberries	No Need to Argue	Zombie	Cranberries_##_Zombie.lab
+Deus	Worst Case Scenario	Suds And Soda	Deus_##_Suds_and_Soda.lab
+Nirvana	Nevermind	Smells Like Teen Spirit	Nirvana_##_Smells_Like_Teen_Spirit.lab
+Oasis	(What's the Story) Morning Glory?	Wonderwall	Oasis_##_Wonderwall.lab
+Radiohead	Pablo Honey	Creep	Radiohead_##_Creep.lab
+Seal	Seal	Crazy	Seal_##_Crazy.lab
+Spice Girls	Spice	Wannabe	Spice_Girls_##_Wannabe.lab
+The Clash	Combat Rock	Should I Stay Or Should I Go	The_Clash_##_Should_I_Stay_Or_Should_I_Go.lab
+
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band	Sgt._Pepper's_Lonely_Hearts_Club_Band.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	With A Little Help From My Friends	02_-_With_A_Little_Help_From_My_Friends.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Lucy In The Sky With Diamonds	03_-_Lucy_In_The_Sky_With_Diamonds.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Getting Better	04_-_Getting_Better.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Fixing A Hole	05_-_Fixing_A_Hole.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	She's Leaving Home	06_-_She's_Leaving_Home.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Being For The Benefit Of Mr. Kite	07_-_Being_For_The_Benefit_Of_Mr._Kite!.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Within You Without You	08_-_Within_You_Without_You.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	When I'm Sixty-Four	09_-_When_I'm_Sixty-Four.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Lovely Rita	10_-_Lovely_Rita.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Good Morning, Good Morning	11_-_Good_Morning_Good_Morning.lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).lab
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	A Day In The Life	13_-_A_Day_In_The_Life.lab
+The Beatles	Please Please Me	I Saw Her Standing There	01_-_I_Saw_Her_Standing_There.lab
+The Beatles	Please Please Me	Misery	02_-_Misery.lab
+The Beatles	Please Please Me	Anna (Go To Him)	03_-_Anna_(Go_To_Him).lab
+The Beatles	With The Beatles	It Won't Be Long	01_-_It_Won't_Be_Long.lab
+The Beatles	With The Beatles	All I've Got To Do	02_-_All_I've_Got_To_Do.lab
+The Beatles	With The Beatles	All My Loving	03_-_All_My_Loving.lab
+The Beatles	With The Beatles	Don't Bother Me	04_-_Don't_Bother_Me.lab
+The Beatles	With The Beatles	Little Child	05_-_Little_Child.lab
+The Beatles	With The Beatles	Till There Was You	06_-_Till_There_Was_You.lab
+The Beatles	With The Beatles	Please Mister Postman	07_-_Please_Mister_Postman.lab
+The Beatles	With The Beatles	Roll Over Beethoven	08_-_Roll_Over_Beethoven.lab
+The Beatles	With The Beatles	Hold Me Tight	09_-_Hold_Me_Tight.lab
+The Beatles	With The Beatles	You Really Got A Hold On Me	10_-_You_Really_Got_A_Hold_On_Me.lab
+The Beatles	With The Beatles	I Wanna Be Your Man	11_-_I_Wanna_Be_Your_Man.lab
+The Beatles	With The Beatles	Devil In Her Heart	12_-_Devil_In_Her_Heart.lab
+The Beatles	With The Beatles	Not A Second Time	13_-_Not_A_Second_Time.lab
+The Beatles	With The Beatles	Money (That's What I Want)	14_-_Money.lab
